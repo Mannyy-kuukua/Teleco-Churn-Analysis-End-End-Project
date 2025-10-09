@@ -1,24 +1,24 @@
 # Teleco-Churn-Analysis-End-End-Project
 
 ## 📑 Table of Contents  
-- [Overview](#-Overview)
-- [Dashboard Preview](#-Dashboard-Preview)
-- [ Database Setup](#️-Database-Setup)  
-- [ Key Metrics](#-Key-Metrics)  
-- [ Churn Breakdown by Factors](#-churn-breakdown-by-factors)  
-  - [ Gender](#-gender)  
-  - [ Contract Type](#-contract-type)  
-  - [Tech Support](#-tech-support)  
-  - [Internet Service](#-internet-service)  
-  - [ Monthly Charges](#-monthly-charges)  
-  - [Online Security](#-online-security)  
-  - [ Senior Citizens](#-senior-citizens)  
-  - [Partner & Dependents](#-partner--dependents)  
-  - [Payment Method](#-payment-method)  
-- [ Insights Summary](#-insights-summary)  
-- [ Recommendations](#-recommendations)   
-- [Tools Used](#️-tools-used)  
-- [ Author](#-author)
+- [Overview](#Overview)
+- [Dashboard Preview](#Dashboard-Preview)
+- [Database Setup](#️Database-Setup)  
+- [Key Metrics](#Key-Metrics)  
+- [Churn Breakdown by Factors](#Churn-Breakdown-by-Factors)  
+  - [Gender](#Gender)  
+  - [Contract Type](#Contract-Type)  
+  - [Tech Support](#Tech-Support)  
+  - [Internet Service](#Internet-Service)  
+  -  [Monthly Charges](#Monthly-Charges)  
+  - [Online Security](#Online-Security)  
+  - [Senior Citizens](#Senior-Citizens)  
+  - [Partner & Dependents](#-Partner--Dependents)  
+  - [Payment Method](#Payment-Method)  
+- [Insights Summary](#Insights-Summary)  
+- [Recommendations](#Recommendations)   
+- [Tools Used](#️Tools-Used)  
+- [Author](#-Author)
 
 
 ---
@@ -239,7 +239,7 @@ GROUP BY PaymentMethod;
 
 ---
 
-## 🧠 Summary of Insights
+## Summary of Insights
 
 | Factor                  | Key Finding                             |
 | ----------------------- | --------------------------------------- |
@@ -270,7 +270,7 @@ GROUP BY PaymentMethod;
 * Promote alternative payment options – Educate users on more stable payment methods like auto-pay or credit cards.
 ---
 
-##  Conclusion
+## Conclusion
 
 The analysis highlights that **short-term contracts, high charges, and lack of technical support** are major contributors to customer churn. Businesses can improve retention by offering:
 
@@ -280,7 +280,7 @@ The analysis highlights that **short-term contracts, high charges, and lack of t
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 * **MySQL** for data querying and analysis
 * **Power BI**  for visualization
@@ -288,7 +288,7 @@ The analysis highlights that **short-term contracts, high charges, and lack of t
 
 ---
 
-## 📚 Author
+## Author
 
 👩‍💻 **Manasia Dankwah Sackey**
 *Data Analyst*
