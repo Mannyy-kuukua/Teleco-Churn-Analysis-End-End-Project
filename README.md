@@ -1,5 +1,25 @@
 # Teleco-Churn-Analysis-End-End-Project
 
+## 📑 Table of Contents  
+- [Overview](#-Overview)
+- [Dashboard Preview](#-Dashboard-Preview)
+- [ Database Setup](#️-Database-Setup)  
+- [ Key Metrics](#-Key-Metrics)  
+- [ Churn Breakdown by Factors](#-churn-breakdown-by-factors)  
+  - [ Gender](#-gender)  
+  - [ Contract Type](#-contract-type)  
+  - [Tech Support](#-tech-support)  
+  - [Internet Service](#-internet-service)  
+  - [ Monthly Charges](#-monthly-charges)  
+  - [Online Security](#-online-security)  
+  - [ Senior Citizens](#-senior-citizens)  
+  - [Partner & Dependents](#-partner--dependents)  
+  - [Payment Method](#-payment-method)  
+- [ Insights Summary](#-insights-summary)  
+- [ Recommendations](#-recommendations)   
+- [Tools Used](#️-tools-used)  
+- [ Author](#-author)
+
 
 ---
 
